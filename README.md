@@ -1,1 +1,3 @@
 # cred-git
+
+Contributors: Johanna, 
